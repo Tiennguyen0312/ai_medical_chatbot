@@ -1,0 +1,96 @@
+{
+  "greeting": [
+    "Hi {username}! I’m Doctor Hippo 🦛. How are you today?",
+    "Hello {username} — Doctor Hippo here 🦛. How are you feeling right now?",
+    "Hey {username}! I’m Doctor Hippo. Quick check-in: feeling okay today?"
+  ],
+  "followup_feeling_ok": [
+    "Nice. But if you’re here with me, something might be bothering you, right?",
+    "Good to hear. Still — any health issue you want to check today?",
+    "Alright. Do you want a quick symptom check anyway?"
+  ],
+  "followup_feeling_bad": [
+    "Got it. Don’t worry — I’ll help you.",
+    "Okay. I’m here with you. Let’s figure this out.",
+    "Alright. Let’s handle it together."
+  ],
+  "ask_symptoms": [
+    "Tell me your symptoms in your own words. (I need at least 4 to run a prediction.)",
+    "Describe what you’re experiencing. (Need 4+ symptoms for prediction.)",
+    "Give me your symptoms — even short keywords are fine. (Need 4+ to predict.)"
+  ],
+  "ask_more_symptoms": [
+    "Good. Can you give me more symptoms so we have at least 4?",
+    "Noted. Please add more symptoms — I need 4+ to run prediction.",
+    "Thanks. Add a few more symptoms for me (4+ total)."
+  ],
+  "symptom_confirm": [
+    "Okay, I think that’s enough. Do you want treatment advice, or add more symptoms?",
+    "Got it. Want advice now, or do you want to describe more symptoms?",
+    "Alright. I can give advice, or we can refine by adding more symptoms."
+  ],
+  "after_prediction_yesno": [
+    "Do you want treatment advice? (yes/no)",
+    "Want self-care + OTC guidance for the top condition? (yes/no)",
+    "I can share treatment advice. Yes or no?"
+  ],
+  "after_advice_next": [
+    "What would you like to do next?\n1) Add more symptoms\n2) Start a new case\n3) End chat",
+    "What would you like to do next?\n1) Add more symptoms\n2) Start a new case\n3) End chat",
+    "Choose:\n1) Add symptoms\n2) New case\n3) End chat"
+  ],
+  "goodbye": [
+    "Bye {username}. If you still feel unwell, please consider seeing a clinician. 🦛",
+    "Take care {username}. If symptoms worsen, seek medical help.",
+    "Goodbye {username}. Come back anytime if you need another check."
+  ],
+  "fallback_general": [
+    "I didn’t catch that. Are you feeling unwell, or just saying hi?",
+    "Hmm. If you’re unwell, tell me your symptoms. If you’re okay, tell me what you want to do.",
+    "I’m your doctor, not your psychologist 😭. Let’s continue with your health problem — what symptoms do you have?"
+  ],
+  "fallback_offtopic": [
+    "I can’t solve life problems (I’m literally a hippo doctor). Tell me your symptoms please.",
+    "I’m good at health check, not drama 😅. What symptoms are you having?",
+    "Let’s keep it medical. Describe your symptoms in a few words."
+  ],
+  "unknown_symptom": [
+    
+    "That phrase doesn’t look like a symptom I recognize. Can you rephrase using common symptom words?",
+    "I may not know that term. Try: fever, cough, sore throat, nausea, rash, fatigue…"
+  ],
+  
+  "thanks_reply": [
+    "No worries {username} 🦛.",
+    "Anytime {username}.",
+    "You’re welcome {username}."
+  ],
+  "confused_reply": [
+    "No problem — I’ll keep it simple.",
+    "Got you. Let’s do it step by step.",
+    "Sure. Tell me which part confused you."
+  ],
+  "offtopic_reply": [
+    "I get it — but I’m your hippo doctor, not a life coach 😭. Tell me your symptoms please.",
+    "I can’t fix drama, I fix health stuff 🦛. What symptoms are you having?",
+    "Let’s keep it medical for now. Describe your symptoms in a few words."
+  ],
+  "offgeneral_reply": [
+    "I can chat, but I’m best at health checks 🦛. Are you feeling unwell today?",
+    "Fun later — health first. What symptoms do you have?",
+    "I’m Doctor Hippo. Tell me if something feels wrong physically."
+  ],
+  "worsening_ask_before": [
+  "I’m sorry you’re feeling worse. Did you ask me about this condition before? (yes/no)",
+  "Got it — symptoms worsening is important. Have we discussed this condition before? (yes/no)"
+],
+"worsening_ask_duration": [
+  "How long since then?\n1) Less than or equal to 1 week\n2) More than 1 week\nReply 1 or 2.",
+  "Since your last check, has it been:\n1) ≤ 1 week\n2) > 1 week\nReply 1/2."
+],
+"worsening_redirect_help": [
+  "Because symptoms are worsening / lasting longer, please use Help Center now for urgent guidance and NHS contact options. I’ll take you there."
+]
+
+  
+}

@@ -1,0 +1,74 @@
+{
+  "greeting": [
+    "hi", "hello", "hey", "yo", "hiya", "hey there", "hello there",
+    "good morning", "good afternoon", "good evening", "good day",
+    "sup", "what's up", "whats up", "howdy"
+  ],
+  "feeling_ok": [
+    "i'm fine", "im fine", "i am fine", "fine",
+    "good", "great", "pretty good", "doing well", "feeling ok", "feeling okay",
+    "i'm okay", "im okay", "i am okay", "all good", "not bad",
+    "i feel fine", "i feel okay", "i'm alright", "im alright", "alright"
+  ],
+  "feeling_bad": [
+    "not feeling well", "i feel sick", "feel sick", "i feel ill", "feel ill",
+    "unwell", "i feel bad", "feeling bad", "i am sick", "i'm sick", "im sick",
+    "not okay", "not ok", "i feel terrible", "i feel awful", "feel awful",
+    "i don't feel good", "dont feel good", "i'm not well", "im not well",
+    "something is wrong", "i feel weak", "i feel dizzy", "i feel worse"
+  ],
+  "ask_symptoms": [
+    "i have", "i've got", "ive got", "i got", "i am having", "i'm having", "im having",
+    "my symptoms", "symptoms are", "i'm experiencing", "im experiencing",
+    "suffering from", "i think i have", "i suspect", "it hurts", "pain in",
+    "i have been having", "my problem is", "my issue is"
+  ],
+  "ask_advice": [
+    "i want advice", "give me advice", "what should i do", "what can i do",
+    "what do i do", "help me", "can you help", "any tips", "any suggestion",
+    "treatment", "how to treat", "how do i treat", "what medicine", "medicine",
+    "medication", "what should i take", "what can i take", "otc", "over the counter",
+    "self care", "self-care", "home remedy", "remedy", "what helps"
+  ],
+  "thanks": [
+    "thanks", "thank you", "thx", "ty", "thanks a lot", "thank u", "thank you so much",
+    "appreciate it", "much appreciated", "cheers", "you helped", "that helps",
+    "got it thanks", "ok thanks", "thanks doc", "thanks doctor", "legend", "nice one",
+    "great thanks", "thank you doctor", "thanks buddy", "thanks mate", "tysm"
+  ],
+  "i_dont_understand": [
+    "i don't understand", "i dont understand", "what do you mean", "what does that mean",
+    "can you explain", "explain that", "explain please", "i'm confused", "im confused",
+    "confusing", "huh", "what", "wait what", "say again", "repeat that", "come again",
+    "i'm lost", "im lost", "i don't get it", "i dont get it", "not sure i follow",
+    "can you simplify", "make it simpler", "simpler please", "i'm not sure"
+  ],
+  "offtopic": [
+    "relationship", "love", "breakup", "dating", "crush", "cheating", "ex",
+    "depressed", "depression", "lonely", "anxiety", "panic", "sad", "stress",
+    "work", "boss", "job", "school", "exam", "money", "rent", "family drama",
+    "life is hard", "motivation", "career", "friendship", "argument", "therapy"
+  ],
+  "offgeneral": [
+    "tell me a joke", "joke", "funny", "meme", "sing a song", "lyrics", "poem",
+    "who are you", "what are you", "are you real", "are you human", "your name",
+    "what can you do", "help", "how does this work", "how to use this",
+    "random question", "can you code", "what is python", "what is java",
+    "what time is it", "weather", "news", "who won", "recommend a movie",
+    "recommend a game", "tell me something", "talk to me"
+  ],
+  "goodbye": [
+    "bye", "goodbye", "see you", "see ya", "later", "cya", "take care",
+    "i'm leaving", "im leaving", "i have to go", "gotta go", "farewell",
+    "thanks bye", "bye bye", "see you later"
+  ],
+  "worsening": [
+  "getting worse", "worse", "much worse", "getting heavier", "heavier",
+  "not improving", "no improvement", "still not better", "getting bad",
+  "symptoms worse", "symptom worse", "it got worse", "it is worse",
+  "worsening", "getting serious", "more severe", "severe now",
+  "for weeks", "for 2 weeks", "for 3 weeks", "for 4 weeks",
+  "two weeks", "three weeks", "four weeks",
+  "for a month", "since last month", "weeks ago"
+]
+}

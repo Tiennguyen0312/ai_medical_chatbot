@@ -1,0 +1,249 @@
+{
+  "_default": {
+    "self_care": [
+      "Rest and stay hydrated.",
+      "Monitor symptoms and avoid strenuous activity if unwell."
+    ],
+    "otc": [
+      "Paracetamol/acetaminophen for pain or fever, following the label.",
+      "Oral rehydration solution if you are dehydrated."
+    ],
+    "avoid": [
+      "Do not self-prescribe antibiotics or prescription-only medicines.",
+      "Avoid combining multiple products containing the same active ingredient."
+    ],
+    "go_hospital_if": [
+      "Difficulty breathing, chest pain, or bluish lips/face.",
+      "Severe dehydration (very little urine, dizziness, fainting).",
+      "High fever that persists or symptoms that worsen rapidly.",
+      "Severe allergic reaction (face/throat swelling, wheeze)."
+    ],
+    "disclaimer": "Academic demo only. This information is general and not a substitute for professional medical advice."
+  },
+  "hypoglycemia": {
+    "source": "NHS",
+    "severity_level": "mild",
+    "self_care": [
+      "Eat or drink something that will raise your blood sugar quickly, such as a small glass of fruit juice or sugary fizzy drink, 5 glucose or dextrose tablets, 4 large jelly babies, or 2 tubes of glucose gel.",
+      "Check your blood sugar after 10 to 15 minutes.",
+      "If your blood sugar is still below 4mmol/L, have another sugary drink or snack, and check again after 10 minutes.",
+      "Once your symptoms have improved and your blood sugar is above 4mmol/L, eat something that will keep your blood sugar up for longer, such as some biscuits, a sandwich, or your next meal if it's due."
+    ],
+    "otc": [
+      "Glucagon injection kit and medical ID, insulin pump (follow label)"
+    ],
+    "avoid": [
+      "Do not skip or delay meals",
+      "Do not drink too much alcohol – keep to the recommended guidelines of no more than 14 units of alcohol a week, spread over 3 days or more",
+      "Do not drink alcohol without eating"
+    ],
+    "go_hospital_if": [
+      "You have diabetes and you get low blood sugar (hypos) often, you've had severe hypos or you've had hypos at night",
+      "You have diabetes and you do not always recognise the symptoms when you have low blood sugar",
+      "You do not have diabetes and you get symptoms of low blood sugar such as shaking, sweating, a fast heartbeat and feeling confused"
+    ],
+    "notes": "If you drive, you'll need to check your blood sugar before each journey and then every 2 hours while driving. If you get low blood sugar, do not drive for at least 45 minutes after your blood sugar is back to normal."
+  },
+  "acute bronchitis": {
+    "source": "NHS",
+    "severity_level": "mild",
+    "self_care": [
+      "Rest and increase fluid intake",
+      "Use humidified air to ease congestion"
+    ],
+    "otc": [
+      "Paracetamol/acetaminophen for fever or aches (follow label)"
+    ],
+    "avoid": [
+      "Unnecessary antibiotics (viral infection)"
+    ],
+    "go_hospital_if": [
+      "Shortness of breath",
+      "Chest pain",
+      "Fever lasting more than 3 days"
+    ],
+    "notes": "Most cases resolve within 7–10 days."
+  },
+  "psoriasis": {
+    "source": "NHS",
+    "severity_level": "mild",
+    "self_care": [
+      "Try to avoid the things that make your symptoms worse (triggers)",
+      "Have a healthy, balanced diet,get regular exercise and try to reduce stress if you can"
+    ],
+    "otc": [
+      "Vitamin D creams, lotions, ointments and gels moisturising creams, lotions, ointments and gels for your skin and to wash with (emollients) (follow label)",
+      "Steroid creams, lotions or gels"
+    ],
+    "avoid": [
+      "Do not share your moisturising treatments (emollients) with anyone else",
+      "Do not put your fingers into a pot of emollient – use a spoon, spatula or pump dispenser instead",
+      "Do not smoke or go near naked flames if you use an emollient – clothing and bedding that's been in contact with an emollient burns more easily"
+    ],
+    "go_hospital_if": [
+      "Your skin quickly turns red and you develop white, pus-filled bumps that join together – redness may be harder to see on brown or black skin",
+      "Have psoriasis patches on your feet that turn yellow-brown and are filled with pus",
+      "Your fingers and toes have red, scaly pus-filled bumps on the tips – redness may be harder to see on brown or black skin"
+    ],
+    "notes": "You may also have other symptoms such as your heart beating fast, or a high temperature, or feeling hot, cold or shivery.."
+  },
+  "urinary tract infection": {
+    "source": "NHS",
+    "severity_level": "mild",
+    "self_care": [
+      "Rest and drink enough fluids so you pass pale urine regularly during the day",
+      "Avoid drinks that may irritate your bladder, like fruit juices, coffee and alcohol"
+    ],
+    "otc": [
+      "Take paracetamol up to 4 times a day to reduce pain and a high temperature or you can give children liquid paracetamol. "
+    ],
+    "avoid": [
+      "Do not use scented soap around the genital area",
+      "Do not hold your pee in if you feel the urge to go",
+      "Do not rush when going for a pee – try to fully empty your bladder",
+      "Do not wear tight underwear",
+      "Do not use condoms or a diaphragm or cap with spermicidal lube on them – try non-spermicidal lube or a different type of contraception"
+    ],
+    "go_hospital_if": [
+      "You think you have a urinary tract infection (UTI) and you are a woman or girl aged between 16 and 64 and are not pregnant or breastfeeding",
+      "Your symptoms get worse quickly, or do not improve within 48 hours (2 days) of starting treatment or treating it yourself",
+      "You keep getting UTIs (2 within 6 months, or 3 within 12 months)",
+      "You're pregnant"
+    ],
+    "notes": "If you're taking warfarin, you should avoid cranberry products."
+  },
+  "allergy": {
+    "source": "NHS",
+    "severity_level": "mild",
+    "self_care": [
+      "Use an adrenaline auto-injector (such as an EpiPen) if you have one – instructions are included on the side of the injector.",
+      "Lie down – you can raise your legs, and if you're struggling to breathe, raise your shoulders or sit up slowly (if you're pregnant, lie on your left side).",
+      "If you have been stung by an insect, try to remove the sting if it's still in the skin.",
+      "If your symptoms have not improved after 5 minutes, use a 2nd adrenaline auto-injector."
+    ],
+    "otc": [
+      "EpiPen, Jext, like antihistamines and steroid nasal sprays, tablets and creams can be bought from pharmacies and supermarkets, but you should speak to a pharmacist before using them."
+    ],
+    "avoid": [
+      "Unnecessary antibiotics (viral infection)"
+    ],
+    "go_hospital_if": ["Your lips, mouth, throat or tongue suddenly become swollen",
+    "You're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air)",
+    "Your throat feels tight or you're struggling to swallow",
+    "Your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet)",
+    "You suddenly become very confused, drowsy or dizzy",
+    "Someone faints and cannot be woken up"
+    ],
+    "notes": "Do not stand or walk at any time, even if you feel better. Call 999 for an ambulance and say that you think you're having an anaphylactic reaction."
+  },
+  "common cold": {
+    "source": "NHS",
+    "severity_level": "mild",
+    "self_care": [
+      "Rest and increase fluid intake",
+      "Eat healthy food (it's common for small children to lose their appetite for a few days)",
+      "gargle salt water to soothe a sore throat (not suitable for children)"
+    ],
+    "otc": [
+      "Paracetamol or Ibuprofen (follow label)",
+      "Vapour rubs to help ease chesty coughs in babies and small children"
+    ],
+    "avoid": [
+      "Do not let children breathe in steam from a bowl of hot water because of the risk of scalding",
+      "Do not give aspirin to children under the age of 16",
+      "Do not smoke as it can make your symptoms worse"
+    ],
+    "go_hospital_if": [
+      "You have a high temperature for more than 3 days",
+      "Your cold symptoms get worse",
+      "Your temperature is very high, or you feel hot, cold or shivery",
+      "You feel short of breath or have chest pain",
+      "You get cold symptoms and you have a long-term medical condition (for example, diabetes, or a heart, lung or kidney condition)",
+      "You get cold symptoms and you have a weakened immune system (for example, because you're having chemotherapy)"
+    ],
+    "notes": "Colds are caused by viruses and easily spread to other people.You're infectious until all your symptoms have gone. This usually takes 1 to 2 weeks. It can be longer in babies and young children."
+  },
+  "impetigo": {
+    "source": "NHS",
+    "severity_level": "mild",
+    "self_care": [
+      "No self care advice, see a pharmacist or GP for diagnosis and treatment"
+    ],
+    "otc": [
+      "A pharmacist or GP will check if your symptoms are caused by a more serious skin infection, like cellulitis.(follow label)"
+    ],
+    "avoid": [
+      "Do not touch or scratch sores, blisters or crusty patches – this also helps stop scarring",
+      "Do not have close contact with children or people with diabetes or a weakened immune system (if they're having chemotherapy, for example)",
+      "Do not share flannels, towels, sheets or pillowcases",
+      "Do not go to the gym or play contact sports like football"
+    ],
+    "go_hospital_if": [
+      "You have symptoms of impetigo",
+      "Your child is aged 12 months or over and has symptoms of impetigo"
+    ],
+    "notes": "Do not stop using cream or taking antibiotic tablets early, even if the impetigo starts to clear up."
+  },
+  "acne": {
+    "source": "NHS",
+    "severity_level": "mild",
+    "self_care": [
+      "Wash the affected area with a mild soap or cleanser and lukewarm water. Very hot or cold water can make acne worse.",
+      "Do not wash affected areas of skin more than twice a day. Frequent washing can irritate the skin and make symptoms worse."
+    ],
+    "otc": [
+      "Products containing a low concentration of benzoyl peroxide may be recommended, but be careful as this can bleach clothing.","If your acne is severe or appears on your chest and back, it may need to be treated with antibiotics or stronger creams that are only available on prescription."
+    ],
+    "avoid": [
+      "Do not try to clean out blackheads or squeeze spots. Avoid make-up, skincare and suncare products that are oil-based (sometimes labelled “comedogenic”). Use water-based non-comedogenic products, as they’re less likely to block the pores in your skin.  "
+    ],
+    "go_hospital_if": [
+      "If you have mild acne, speak to a pharmacist about medicines to treat it.",
+      "If these do not control your acne, or it's making you feel very unhappy, see a GP."
+    ],
+    "notes": "Treatments can take several months to work, so do not expect results overnight. Once they do start to work, the results are usually good."
+  },
+  "migraine": {
+    "source": "NHS",
+    "severity_level": "mild",
+    "self_care": [
+      "Try sleeping or lying down in a darkened room during a migraine",
+      "Try to avoid things you know trigger your migraines, such as certain foods",
+      "Stay well hydrated and limit how much caffeine and alcohol you drink",
+      "Try to keep to a healthy weight"
+    ],
+    "otc": [
+      "Painkillers such as ibuprofen and paracetamol,medicines called triptans,medicines that stop you feeling sick or being sick","call 111 if it last more than 3-5 days."
+    ],
+    "avoid": [
+      "Unnecessary antibiotics (viral infection)"
+    ],
+    "go_hospital_if": [
+      "your migraines are severe or getting worse, or lasting longer than usual.",
+      "you have migraines more than once a week.",
+      "you're finding it difficult to control your migraines"
+    ],
+    "notes": "It's not known what causes migraines.You're more likely to get them if you have a close family member who gets them."
+  },
+  "chickenpox": {
+    "source": "NHS",
+    "severity_level": "stage 1",
+    "self_care": [
+      "Drink plenty of fluids (try ice lollies if your child is not drinking)",
+      "Cut your child's fingernails and put socks on their hands at night to stop them scratching"
+    ],
+    "otc": [
+      "Take paracetamol to help with any pain and discomfort","use cooling creams or gels from a pharmacy"
+    ],
+    "avoid": [
+      "Do not go near newborn babies or anyone who's pregnant or has a weakened immune system, as chickenpox can be dangerous for them."
+    ],
+    "go_hospital_if": [
+      "Your or your child's chickenpox symptoms suddenly get worse",
+      "Your child has chickenpox and is showing signs of dehydration, such as fewer wet nappies",
+      "The skin around the chickenpox blisters is hot, painful and red (redness may be harder to see on brown or black skin)",
+      "You're breastfeeding and have chickenpox symptoms"
+    ],
+    "notes": "The spots start appearing around 1 to 3 weeks after you caught chickenpox."
+  }
+}

@@ -1,0 +1,529 @@
+{
+  "headache": ["headache","my head is hurting","head hurts"],
+  "fever": ["fever","high temperature","temperature is high"],
+  "cough": ["cough","coughing","coughs"],
+  "sore_throat": ["sore throat","throat hurts","pain in throat"],
+  "sneezing": ["sneezing","sneeze"],
+  "runny_nose": ["runny nose","runny nose","nasal discharge","nasal drip","stuffy nose","congested nose"],
+  "nausea": ["nausea","feeling nauseous"],
+  "acne_or_pimples": ["acne or pimples","acne","pimples","breakouts","zits"],
+  "abnormal_appearing_skin": ["abnormal appearing skin","abnormal skin","skin looks abnormal","unusual skin","skin looks unusual"],
+  "abnormal_involuntary_movements": ["abnormal involuntary movements","cannot control movements","involuntary movements","uncontrolled movements","abnormal movements"],
+  "allergic_reaction": ["allergic reaction","allergy","allergic response"],
+  "back_pain": ["back pain","back hurts","pain in back","back is painful","my back hurts","painful back","back ache","back aching","back's painful","ache in back","sore back"],
+  "blindness": [
+    "blindness",
+    "cannot see",
+    "can't see",
+    "loss of vision",
+    "vision loss"
+    ,"my vision is lost",
+    "i have blindness",
+    "having blindness"
+  ],
+   "blood_in_urine": [
+    "blood in urine",
+    "bloody urine",
+    "blood when peeing",
+    "blood in pee",
+    "hematuria",
+    "haematuria",
+    "blood in my urine",
+    "blood in my pee",
+    "blood in my urination",
+    "blood in my urinating",
+    "blood in my urinate"
+  ],
+    "chills": [
+    "chills",
+    "shivering",
+    "cold shakes",
+    "feeling shivery"
+  ],
+  "congestion_in_chest": [
+    "congestion in chest",
+    "i have congestion in chest",
+    "having congestion in chest"
+  ],
+  "coughing_up_sputum": [
+    "coughing up sputum",
+    "coughing up phlegm",
+    "coughing up mucus",  
+    "coughing up stuff",
+    "coughing up gunk"
+  ],
+  "decreased_appetite": [
+    "decreased appetite",
+    "loss of appetite",
+    "reduced appetite",
+    "not hungry",
+    "no appetite",
+    "appetite is decreased",
+    "appetite is lost",
+    "appetite is reduced"
+  ],
+  "depressive_or_psychotic_symptoms": [
+    "depressive or psychotic symptoms",
+    "depressive",
+    "psychotic symptoms",
+    "depression",
+    "psychosis",
+    "depressive symptoms",
+    "psychotic",
+    "depressive or psychotic"
+  ],
+  "difficulty_breathing": [
+    "difficulty breathing",
+    "hard to breathe",
+    "trouble breathing",
+    "breathing difficulty",
+    "can't breathe well",
+    "cannot breathe well",
+    "hard to breathing",
+    "cannot breathing well",
+    "can't breathing well",
+    "trouble to breathe",
+    "trouble with breathing",
+    "breathing is difficult",
+    "breathing is hard",
+    "breathing is troubled"
+  ],
+  "diminished_vision": [
+    "diminished vision",
+    "reduced vision",
+    "decreased vision",
+    "lower vision",
+    "vision is diminished",
+    "vision is reduced",
+    "vision is decreased",
+    "vision is lower"
+  ],
+  "disturbance_of_memory": [
+    "disturbance of memory",
+    "memory problems",
+    "memory loss",
+    "forgetfulness",
+    "memory issues",
+    "memory difficulties",
+    "memory trouble",
+    "memory is disturbed",
+    "memory is problematic",
+    "memory is lost",
+    "memory is forgetful"
+  ],
+  "dizziness": [
+    "dizziness",
+    "feeling dizzy",
+    "lightheaded",
+    "lightheadedness",
+    "woozy",
+    "feeling lightheaded",
+    "feeling woozy",
+    "dizzy spells",
+    "dizzy",
+    "dizziness spells"
+  ],
+  "ear_pain": [
+    "ear pain",
+    "ear hurts",
+    "pain in ear",
+    "ear is painful",
+    "my ear hurts",
+    "painful ear",
+    "ear ache",
+    "ear aching",
+    "ear's painful",
+    "i have ear pain",
+    "having ear pain",
+    "ache in ear",
+    "sore ear",
+    "ears hurts",
+    "pain in ears",
+    "painful ears",
+    "my ears hurts",
+    "ears are painful",
+    "ache in ears",
+    "ears aching",
+    "sore ears"
+  ],
+  "fainting": [
+    "fainting",
+    "passed out",
+    "pass out",
+    "blacking out",
+    "syncope",
+    "passing out",
+    "fainted",
+    "blacked out",
+    "faint",  
+    "fainting spells",
+    "fainting episode",
+    "fainting episodes"
+  ],
+  "feeling_ill": [
+    "feeling ill",
+    "feel ill",
+    "i feel ill",
+    "feeling sick",
+    "feel sick",
+    "i feel sick",
+    "feeling unwell",
+    "feel unwell",
+    "i feel unwell",
+    "feeling bad",
+    "feel bad",
+    "i feel bad"
+  ],
+  "flu_like_syndrome": [
+    "flu-like syndrome",
+     "flu like syndrome",
+     "flu-like illness",
+     "flu like illness",
+     "feels like flu",
+     "feels like the flu",
+    "flu like symptoms",
+    "flu-like illness",
+    "feels like flu",
+    "feels like the flu",
+    "flu like symptoms"
+  ],
+  "fluid_retention": [
+    "fluid retention",
+    "i have fluid retention",
+    "having fluid retention"
+  ],
+  "frequent_urination": [
+    "frequent urination",
+    "peeing a lot",
+    "urinating a lot",
+    "need to pee often",
+    "need to urinate often",
+    "frequent urinating",
+    "frequent peeing"
+  ],
+  "irregular_appearing_scalp": [
+    "irregular appearing scalp",
+    "abnormal scalp",
+    "scalp looks abnormal",
+    "unusual scalp",
+    "scalp looks unusual"
+  ],
+   "itchiness_of_eye": [
+    "itchiness of eye",
+    "itchy eye",
+    "eye itching",
+    "eye is itchy",
+    "my eye is itchy",
+    "eye's itchy",
+    "i have itchiness of eye",
+    "having itchiness of eye",
+    "itch in eye",
+    "itchy eyes",
+    "eyes itching",
+    "eyes are itchy",
+    "my eyes are itchy",
+    "itch in eyes"
+  ],
+  "itching_of_skin": [
+    "itching of skin",
+    "itchy skin",
+    "skin itching",
+    "skin is itchy",
+    "my skin is itchy",
+    "skin's itchy",
+    "my skin's itchy",
+    "i have itching of skin",
+    "having itching of skin",
+    "skin itch",
+    "pruritus",
+    "itch in skin"
+  ],
+  "itchy_scalp": [
+    "itchy scalp",
+    "scalp itching",
+    "scalp is itchy",
+    "my scalp is itchy",
+    "scalp's itchy",
+    "my scalp's itchy",
+    "i have itchy scalp",
+    "having itchy scalp",
+    "itch in scalp"
+  ],
+  "joint_pain": [
+    "joint pain",
+    "joint hurts",
+    "pain in joint",
+    "joint is painful",
+    "my joint hurts",
+    "painful joint",
+    "joint ache",
+    "joint aching",
+    "joint's painful",
+    "i have joint pain",
+    "having joint pain",
+    "pain in joints",
+    "joints hurt",
+    "ache in joint",
+    "sore joint"
+  ],
+  "lip_swelling": [
+    "lip swelling",
+    "swollen lip",
+    "lip is swollen",
+    "my lip is swollen",
+    "swelling in lip",
+    "lip's swollen",
+    "my lip's swollen",
+    "i have lip swelling",
+    "having lip swelling",
+    "puffy lip"
+  ],
+  "long_menstrual_periods": [
+    "long menstrual periods",
+    "i have long menstrual periods",
+    "having long menstrual periods"
+  ],
+  "lower_abdominal_pain": [
+    "lower abdominal pain",
+    "lower abdominal hurts",
+    "pain in lower abdominal",
+    "lower abdominal is painful",
+    "my lower abdominal hurts",
+    "painful lower abdominal",
+    "lower abdominal ache",
+    "lower abdominal aching",
+    "low abdominal pain",
+    "lower abdominal's painful",
+    "i have lower abdominal pain",
+    "having lower abdominal pain",
+    "ache in lower abdominal",
+    "sore lower abdominal"
+  ],
+  "mouth_ulcer": [
+    "mouth ulcer",
+    "i have mouth ulcer",
+    "having mouth ulcer"
+  ],
+  "nasal_congestion": [
+    "nasal congestion",
+    "stuffy nose",
+    "blocked nose",
+    "nose congestion",
+    "congested nose",
+    "i have nasal congestion",
+    "having nasal congestion"
+  ],
+  "pain_in_testicles": [
+    "pain in testicles",
+    "testicles pain",
+    "painful testicles",
+    "testicles hurts",
+    "my testicles hurts",
+    "i have pain in testicles",
+    "having pain in testicles"
+  ],
+  "painful_urination": [
+    "painful urination",
+    "burning urination",
+    "burning when peeing",
+    "pain when peeing",
+    "it hurts to pee",
+    "urination pain",
+    "pain in urination",
+    "urination hurts",
+    "it hurts in urination",
+    "i have painful urination",
+    "having painful urination",
+    "dysuria"
+  ],
+  "peripheral_edema": [
+    "peripheral edema",
+    "edema in limbs",
+    "i have peripheral edema",
+    "having peripheral edema"
+  ],
+  "problems_with_movement": [
+    "problems with movement",
+    "i have problems with movement",
+    "having problems with movement"
+  ],
+  "retention_of_urine": [
+    "retention of urine",
+    "urinary retention",
+    "cannot pee",
+    "can't pee",
+    "unable to urinate",
+    "i have retention of urine",
+    "having retention of urine"
+  ],
+  "seizures": [
+    "seizures",
+    "i have seizures",
+    "having seizures"
+  ],
+  "sharp_chest_pain": [
+    "sharp chest pain",
+    "sharp chest hurts",
+    "pain in sharp chest",
+    "sharp chest is painful",
+    "my sharp chest hurts",
+    "painful sharp chest",
+    "sharp chest ache",
+    "sharp chest aching",
+    "sharp chest's painful",
+    "i have sharp chest pain",
+    "having sharp chest pain",
+    "ache in sharp chest",
+    "sore sharp chest"
+  ],
+  "shortness_of_breath": [
+    "shortness of breath",
+    "breathlessness",
+    "out of breath",
+    "can't catch my breath",
+    "cannot catch my breath",
+    "i have shortness of breath",
+    "having shortness of breath",
+    "dyspnea",
+    "dyspnoea"
+  ],
+  "side_pain": [
+    "side pain",
+    "side hurts",
+    "pain in side",
+    "side is painful",
+    "my side hurts",
+    "painful side",
+    "side ache",
+    "side aching",
+    "side's painful",
+    "i have side pain",
+    "having side pain",
+    "ache in side",
+    "sore side"
+  ],
+  "skin_dryness_peeling_scaliness_or_roughness": [
+    "skin dryness, peeling, scaliness, or roughness",
+    "skin dryness, peeling, scaliness,",
+    "i have skin dryness, peeling, scaliness, or roughness",
+    "having skin dryness, peeling, scaliness, or roughness"
+  ],
+  "skin_growth": [
+    "skin growth",
+    "i have skin growth",
+    "having skin growth"
+  ],
+  "skin_lesion": [
+    "skin lesion",
+    "i have skin lesion",
+    "having skin lesion"
+  ],
+  "skin_moles": [
+    "skin moles",
+    "i have skin moles",
+    "having skin moles"
+  ],
+  "skin_rash": [
+    "skin rash",
+    "i have skin rash",
+    "having skin rash"
+  ],
+  "skin_swelling": [
+    "skin swelling",
+    "swollen skin",
+    "skin is swollen",
+    "my skin is swollen",
+    "swelling in skin",
+    "skin's swollen",
+    "my skin's swollen",
+    "i have skin swelling",
+    "having skin swelling",
+    "puffy skin"
+  ],
+  "sleepiness": [
+    "sleepiness",
+    "drowsiness",
+    "sleepy",
+    "feeling sleepy",
+    "i have sleepiness",
+    "having sleepiness"
+  ],
+  "sore_in_nose": [
+    "sore in nose",
+    "nose sore",
+    "sore inside nose",
+    "nasal sore",
+    "i have sore in nose",
+    "having sore in nose",
+    "inside nose is sore",
+    "sore nose",
+    "sore nasal area",
+    "nasal area sore",
+    "sore inside nasal area",
+    "inside nasal area is sore"
+  ],
+  "spots_or_clouds_in_vision": [
+    "spots or clouds in vision",
+    "clouds in vision",
+    "i have spots or clouds in vision",
+    "having spots or clouds in vision"
+  ],
+  "suprapubic_pain": [
+    "suprapubic pain",
+    "suprapubic hurts",
+    "pain in suprapubic",
+    "suprapubic is painful",
+    "my suprapubic hurts",
+    "painful suprapubic",
+    "suprapubic ache",
+    "suprapubic aching",
+    "suprapubic's painful",
+    "i have suprapubic pain",
+    "having suprapubic pain",
+    "ache in suprapubic",
+    "sore suprapubic"
+  ],
+  "sweating": [
+    "sweating",
+    "sweaty",
+    "excessive sweating",
+    "i am sweating",
+    "i have sweating",
+    "having sweating"
+  ],
+  "swollen_eye": [
+    "swollen eye",
+    "i have swollen eye",
+    "having swollen eye"
+  ],
+  "symptoms_of_the_face": [
+    "symptoms of the face",
+    "face symptoms",
+    "problems with face",
+    "face problems",
+    "i have symptoms of the face",
+    "having symptoms of the face",
+    "issues with face"
+  ],
+  "vomiting": [
+    "vomiting",
+    "throwing up",
+    "throw up",
+    "being sick",
+    "vomit",
+    "i have vomiting",
+    "having vomiting"
+  ],
+  "weakness": [
+    "feeling weak",
+    "low strength",
+    "i feel weak",
+    "i have weakness",
+    "having weakness"
+  ],
+  "wheezing": [
+    "wheezing",
+    "i have wheezing",
+    "having wheezing"
+  ]
+}
